@@ -4,7 +4,6 @@
 This repository consists of personal projects on various aspects of Data Science I worked on or currently working on for self learning, hobby and academic purposes. Feel free to email me at harshul.varma@mail.utoronto.ca regarding any opportunities, collaboration or suggestions!
 ***
 ## Projects:
-***
 ### Air quality analysis and prediction - Madrid
 - Analysed effect of altitude on pollution levels in Madrid air stations
 - Clusterd and anlaysed similiar air stations using **K-Means**
