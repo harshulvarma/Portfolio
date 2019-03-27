@@ -9,7 +9,7 @@ This repository consists of personal projects on various aspects of Data Science
 - Discovered most important features that are responsible for customer churn using **Random Forest Classifier*
 - Developed a **Logistic Regression** model to predict whether a customer is likely to leave or not
 
-<img src="https://github.com/harshulvarma/Portfolio/blob/master/Images/customerchurn.png" width="400" height="200">
+<img src="https://github.com/harshulvarma/Portfolio/blob/master/Images/customerchurn.png" width="475" height="300">
 
 ***
 ### Air quality analysis and prediction - Madrid
