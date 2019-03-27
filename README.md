@@ -4,6 +4,14 @@
 This repository consists of personal projects on various aspects of Data Science I worked on or currently working on for self learning, hobby and academic purposes. Feel free to email me at harshul.varma@mail.utoronto.ca regarding any opportunities, collaboration or suggestions!
 ***
 ## Projects:
+### Analysing and Predicting Customer Retention
+- **Exploratory Data Analysis** of customer churn behaviour based on 26 features such as demographics, services, billing and charges
+- Discovered most important features that are responsible for customer churn using **Random Forest Classifier*
+- Developed a **Logistic Regression** model to predict whether a customer is likely to leave or not
+
+<img src="https://github.com/harshulvarma/Portfolio/blob/master/Images/customerchurn.png" width="400" height="200">
+
+***
 ### Air quality analysis and prediction - Madrid
 - Analysed effect of altitude on pollution levels in Madrid air stations
 - Clusterd and anlaysed similiar air stations using **K-Means**
