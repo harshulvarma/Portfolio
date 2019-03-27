@@ -28,8 +28,8 @@ This repository consists of personal projects on various aspects of Data Science
 ***
 ### Finding Similiar Neighborhoods -Toronto
 - Scraped, cleaned and analysed Toronto postal area, borough and neighbourhood data
-- Used Foursquare API to get popular venues in each neighborhood
-- Clustered neighborhoods based on common venues using K-Means unsupervised learning
+- Used **Foursquare API** to get popular venues in each neighborhood
+- Clustered neighborhoods based on common venues using **K-Means unsupervised learning**
 - Found similiar neighborhoods based on euclidean distances
 <img src="https://github.com/harshulvarma/Portfolio/blob/master/Images/TorontoClusters.JPG" width="400">
 
