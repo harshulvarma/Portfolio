@@ -1,7 +1,7 @@
-# *Data Science Portfolio*
+# *Portfolio*
 #### -_Harshul Varma_
 ***
-This repository consists of personal projects on various aspects of Data Science I worked on or currently working on for self learning, hobby and academic purposes. Feel free to email me at harshul.varma@mail.utoronto.ca regarding any opportunities, collaboration or suggestions!
+This repository consists of personal projects on various aspects of Machine Learning, Deep Learning and Data Science I worked on or currently working on for self learning, hobby and academic purposes. Feel free to email me at harshul.varma@mail.utoronto.ca regarding any opportunities, collaboration or suggestions!
 ***
 ## Projects:
 ### [Analysing and Predicting Customer Retention](https://nbviewer.jupyter.org/github/harshulvarma/Portfolio/blob/master/CustomerChurn.ipynb)
