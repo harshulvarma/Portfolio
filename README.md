@@ -24,7 +24,7 @@ This repository consists of personal projects on various aspects of Machine Lear
 - Implemented **transfer learning** using fine-tuned **ResNet50** architecture in Keras to predict Pneumonia in X-Ray images 
 - The dataset was evaluated on various machine learning algorithms and neural network architectures but yielded best results using ResNet50 with Data Augmentation
 - The final model is evaluated based on Accuracy, F1 Score, Precision and Recall
-<img src="https://github.com/harshulvarma/Portfolio/blob/master/Images/XRay.PNG" width="400" height="200"> <img src="https://github.com/harshulvarma/Portfolio/blob/master/Images/PneumoniaConfusion.PNG" width="400" height="200">
+<img src="https://github.com/harshulvarma/Portfolio/blob/master/Images/XRay.PNG" width="300" height="400"> <img src="https://github.com/harshulvarma/Portfolio/blob/master/Images/PneumoniaConfusion.PNG" width="400" height="400">
 
 ***
 ### [Finding Similiar Neighborhoods -Toronto](https://nbviewer.jupyter.org/github/harshulvarma/Portfolio/blob/master/Finding_Similar_Neighborhoods.ipynb)
