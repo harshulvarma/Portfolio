@@ -20,10 +20,11 @@ This repository consists of personal projects on various aspects of Machine Lear
 <img src="https://github.com/harshulvarma/Portfolio/blob/master/Images/PredictedNO2.png" width="400" height="200">
 
 ***
-### [Breast Cancer Detection in Histology Images](https://github.com/harshulvarma/Portfolio/blob/master/Cancer_Image_Classifier.ipynb)
-- Implemented **transfer learning** using fine-tuned **ResNet50** architecture in Keras achieved 85% accuracy in predicting breast cancer in histology images 
-- The dataset was evaluated on various machine learning algorithms and neural network architectures and utilising data augmentation but yielded best results ResNet50
-<img src="https://github.com/harshulvarma/Portfolio/blob/master/Images/Cancerconfusionmatrix.png">
+### [Pneumonia detection in X-Ray Images](https://github.com/harshulvarma/Portfolio/blob/master/Pneumonia_XRayImages.ipynb)
+- Implemented **transfer learning** using fine-tuned **ResNet50** architecture in Keras to predict Pneumonia in X-Ray images 
+- The dataset was evaluated on various machine learning algorithms and neural network architectures but yielded best results using ResNet50 with Data Augmentation
+- The final model is evaluated based on Accuracy, F1 Score, Precision and Recall
+<img src="https://github.com/harshulvarma/Portfolio/blob/master/Images/XRay.PNG"> <img src="https://github.com/harshulvarma/Portfolio/blob/master/Images/PneumoniaConfusion.PNG">
 
 ***
 ### [Finding Similiar Neighborhoods -Toronto](https://nbviewer.jupyter.org/github/harshulvarma/Portfolio/blob/master/Finding_Similar_Neighborhoods.ipynb)
