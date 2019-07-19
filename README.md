@@ -12,6 +12,14 @@ This repository consists of personal projects on various aspects of Machine Lear
 <img src="https://github.com/harshulvarma/Portfolio/blob/master/Images/customerchurn.png" width="475" height="300">
 
 ***
+### [Segmenting Credit Card Users based on behaviour](https://nbviewer.jupyter.org/github/harshulvarma/Portfolio/blob/master/Credit_Card_User_Segmentation.ipynb)
+- Segmented customers based on credit card usage for banks to target clusters with appropriate marketing strategies
+- Discovered highly correlated features using Pearson correlation and feature engineered the dataset
+- Utilised K-Means in scikit-learn for cluster analysis and PCA (Principal Component Analysis) to visualise clusters
+
+<img src="https://github.com/harshulvarma/Portfolio/blob/master/Images/customerchurn.png" width="475" height="300">
+
+***
 ### [Air quality analysis and prediction - Madrid](https://nbviewer.jupyter.org/github/harshulvarma/Portfolio/blob/master/air_quality_analysis_and_prediction_Madrid.ipynb)
 - Analysed effect of altitude on pollution levels in Madrid air stations
 - Clusterd and anlaysed similiar air stations using **K-Means**
