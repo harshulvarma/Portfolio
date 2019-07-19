@@ -1,4 +1,4 @@
-# *Portfolio*
+# *Data Science Portfolio*
 #### -_Harshul Varma_
 ***
 This repository consists of personal projects on various aspects of Machine Learning, Deep Learning and Data Science I worked on or currently working on for self learning, hobby and academic purposes. Feel free to email me at harshul.varma@mail.utoronto.ca regarding any opportunities, collaboration or suggestions!
@@ -9,7 +9,7 @@ This repository consists of personal projects on various aspects of Machine Lear
 - Discovered most important features that are responsible for customer churn using **Random Forest Classifier**
 - Developed a **Logistic Regression** model to predict whether a customer is likely to leave or not
 
-<img src="https://github.com/harshulvarma/Portfolio/blob/master/Images/customerchurn.png" width="475" height="300">
+<img src="https://github.com/harshulvarma/Portfolio/blob/master/Images/customerchurn.png" width="600" height="400">
 
 ***
 ### [Segmenting customers based on Credit Card usage](https://nbviewer.jupyter.org/github/harshulvarma/Portfolio/blob/master/Credit_Card_User_Segmentation.ipynb)
@@ -25,7 +25,7 @@ This repository consists of personal projects on various aspects of Machine Lear
 - Clusterd and anlaysed similiar air stations using **K-Means**
 - Visualised yearly, monthly and hourly trends of 2001-2018 major pollutant levels
 - Modelled and Evaluated Long Short Term Memory-Recurrent Neural Network (**LSTM-RNN**) to predict NO2 levels
-<img src="https://github.com/harshulvarma/Portfolio/blob/master/Images/PredictedNO2.png" width="400" height="200">
+<img src="https://github.com/harshulvarma/Portfolio/blob/master/Images/PredictedNO2.png" width="500" height="300">
 
 ***
 ### [Pneumonia detection in X-Ray Images](https://github.com/harshulvarma/Portfolio/blob/master/Pneumonia_XRayImages.ipynb)
