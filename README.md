@@ -28,7 +28,7 @@ This repository consists of personal projects on various aspects of Machine Lear
 <img src="https://github.com/harshulvarma/Portfolio/blob/master/Images/PredictedNO2.png" width="500" height="300">
 
 ***
-### [Pneumonia detection in X-Ray Images](https://github.com/harshulvarma/Portfolio/blob/master/Pneumonia_XRayImages.ipynb)
+### [Pneumonia detection in X-Ray Images](https://nbviewer.jupyter.org/github/harshulvarma/Portfolio/blob/master/Pneumonia_X-Ray_Images.ipynb)
 - Implemented **transfer learning** using fine-tuned **ResNet50** architecture in Keras to predict Pneumonia in X-Ray images 
 - The dataset was evaluated on various machine learning algorithms and neural network architectures but yielded best results using ResNet50 with Data Augmentation
 - The final model is evaluated based on Accuracy, F1 Score, Precision and Recall
