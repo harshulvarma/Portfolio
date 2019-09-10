@@ -17,7 +17,7 @@ This repository consists of personal projects on various aspects of Machine Lear
 - Discovered highly correlated features using Pearson correlation and feature engineered the dataset
 - Utilised K-Means in scikit-learn for cluster analysis and PCA (Principal Component Analysis) to visualise clusters
 
-<img src="https://github.com/harshulvarma/Portfolio/blob/master/Images/CreditCard.png" width="600" height="400">
+![credit_card](Images/CreditCard.png)
 
 ***
 ### [Air quality analysis and prediction - Madrid](https://nbviewer.jupyter.org/github/harshulvarma/Portfolio/blob/master/air_quality_analysis_and_prediction_Madrid.ipynb)
@@ -25,7 +25,8 @@ This repository consists of personal projects on various aspects of Machine Lear
 - Clusterd and anlaysed similiar air stations using **K-Means**
 - Visualised yearly, monthly and hourly trends of 2001-2018 major pollutant levels
 - Modelled and Evaluated Long Short Term Memory-Recurrent Neural Network (**LSTM-RNN**) to predict NO2 levels
-<img src="https://github.com/harshulvarma/Portfolio/blob/master/Images/PredictedNO2.png" width="500" height="300">
+
+![air_quality](Images/PredictedNO2.png)
 
 ***
 ### [Pneumonia detection in X-Ray Images](https://nbviewer.jupyter.org/github/harshulvarma/Portfolio/blob/master/Pneumonia_X-Ray_Images.ipynb)
@@ -33,7 +34,7 @@ This repository consists of personal projects on various aspects of Machine Lear
 - The dataset was evaluated on various machine learning algorithms and neural network architectures but yielded best results using ResNet50 with Data Augmentation
 - The final model is evaluated based on Accuracy, F1 Score, Precision and Recall
 
-<img src="https://github.com/harshulvarma/Portfolio/blob/master/Images/XRay.PNG" width="250" height="300"> <img src="https://github.com/harshulvarma/Portfolio/blob/master/Images/PneumoniaConfusion.PNG" width="300" height="300">
+![xray_1](Images/XRay.PNG) ![xray_2](Images/PneumoniaConfusion.PNG)
 
 ***
 ### [Finding Similiar Neighborhoods -Toronto](https://nbviewer.jupyter.org/github/harshulvarma/Portfolio/blob/master/Finding_Similar_Neighborhoods.ipynb)
@@ -41,7 +42,8 @@ This repository consists of personal projects on various aspects of Machine Lear
 - Used **Foursquare API** to get popular venues in each neighborhood
 - Clustered neighborhoods based on common venues using **K-Means unsupervised learning**
 - Found similiar neighborhoods based on euclidean distances
-<img src="https://github.com/harshulvarma/Portfolio/blob/master/Images/TorontoClusters.JPG" width="400">
+
+![toronto_clusters](Images/TorontoClusters.JPG)
 
 ***
 
