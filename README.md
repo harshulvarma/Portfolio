@@ -11,7 +11,7 @@ This repository consists of personal projects on various aspects of Machine Lear
 
 <img src="Images/customerchurn.png" width="600" height="400">
 
-![customer_churn](Images/customerchurn.png)
+![customer_churn](Images/customerchurn.png width="600" height="400")
 
 ***
 ### [Segmenting customers based on Credit Card usage](https://nbviewer.jupyter.org/github/harshulvarma/Portfolio/blob/master/Credit_Card_User_Segmentation.ipynb)
