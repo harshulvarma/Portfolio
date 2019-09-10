@@ -5,6 +5,7 @@ This repository consists of personal projects on various aspects of Machine Lear
 ***
 ## Projects:
 ### [Analysing and Predicting Customer Retention](https://nbviewer.jupyter.org/github/harshulvarma/Portfolio/blob/master/Customer_Churn.ipynb)
+Trying this [link](https://github.com/harshulvarma/Portfolio/blob/master/Customer_Churn.ipynb)
 - **Exploratory Data Analysis** of customer churn behaviour based on 26 features such as demographics, services, billing and charges
 - Discovered most important features that are responsible for customer churn using **Random Forest Classifier**
 - Developed a **Logistic Regression** model to predict whether a customer is likely to leave or not
