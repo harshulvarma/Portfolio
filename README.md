@@ -8,6 +8,7 @@ This repository consists of personal projects on various aspects of Machine Lear
 - **Exploratory Data Analysis** of customer churn behaviour based on 26 features such as demographics, services, billing and charges
 - Discovered most important features that are responsible for customer churn using **Random Forest Classifier**
 - Developed a **Logistic Regression** model to predict whether a customer is likely to leave or not
+
 ![customer_churn](Images/customerchurn.png)
 
 ***
