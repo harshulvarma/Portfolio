@@ -34,7 +34,7 @@ This repository consists of personal projects on various aspects of Machine Lear
 - The dataset was evaluated on various machine learning algorithms and neural network architectures but yielded best results using ResNet50 with Data Augmentation
 - The final model is evaluated based on Accuracy, F1 Score, Precision and Recall
 
-![xray_1](Images/XRay.PNG) ![xray_2](Images/PneumoniaConfusion.PNG)
+![xray_1](Images/XRay.PNG)![xray_2](Images/PneumoniaConfusion.PNG)
 
 ***
 ### [Finding Similiar Neighborhoods -Toronto](https://nbviewer.jupyter.org/github/harshulvarma/Portfolio/blob/master/Finding_Similar_Neighborhoods.ipynb)
