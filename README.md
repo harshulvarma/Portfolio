@@ -1,7 +1,13 @@
 # *Data Science Portfolio*
-#### -_Harshul Varma_
+#### -*Harshul Varma*
 ***
-This repository consists of personal projects on various aspects of Machine Learning, Deep Learning and Data Science I worked on or currently working on for self learning, hobby and academic purposes. Feel free to email me at harshul.varma@mail.utoronto.ca regarding any opportunities, collaboration or suggestions!
+
+Over the years I have developed a passion to solve problems using analytical techniques while using latest technologies. I believe in constant learning and applying the gained knowledge to meaningful projects.
+
+This portfolio consists of projects I've worked on to demonstrate my skills in various aspects of Data Science (data cleaning, data visualisation, data analysis and machine learning)
+
+Tools I use and am currently learning: Python (pandas, matplotlib, seaborn, plotly, scikit-learn, tensorflow, Keras), SQL, Tableau, d3.js, R
+
 ***
 ## Projects:
 ### [Analysing and Predicting Customer Retention](https://nbviewer.jupyter.org/github/harshulvarma/Portfolio/blob/master/Customer_Churn.ipynb)
