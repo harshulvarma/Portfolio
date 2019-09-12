@@ -9,7 +9,7 @@ This portfolio consists of projects I've worked on to demonstrate my skills in v
 Tools I use/urrently learning: Python (pandas, matplotlib, seaborn, plotly, scikit-learn, tensorflow, Keras), SQL, Tableau, d3.js, R
 
 ***
-## Projects:
+### Projects:
 ***
 ### [Analysing and Predicting Customer Retention](https://nbviewer.jupyter.org/github/harshulvarma/Portfolio/blob/master/Customer_Churn.ipynb)
 - **Exploratory Data Analysis** of customer churn behaviour based on 26 features such as demographics, services, billing and charges
