@@ -6,7 +6,7 @@ Over the years I have developed a passion to solve problems using analytical tec
 
 This portfolio consists of projects I've worked on to demonstrate my skills in various aspects of Data Science (data cleaning, data visualisation, data analysis and machine learning)
 
-Tools I use and am currently learning: Python (pandas, matplotlib, seaborn, plotly, scikit-learn, tensorflow, Keras), SQL, Tableau, d3.js, R
+Tools I use/urrently learning: Python (pandas, matplotlib, seaborn, plotly, scikit-learn, tensorflow, Keras), SQL, Tableau, d3.js, R
 
 ***
 ## Projects:
