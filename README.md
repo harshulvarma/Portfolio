@@ -14,7 +14,7 @@ Tools I use/currently learning: Python (pandas, matplotlib, seaborn, plotly, sci
 ***
 ## Projects:
 
-### [IBM Customer Churn Prediction](https://nbviewer.jupyter.org/github/harshulvarma/Portfolio/blob/master/Customer_Churn.ipynb)
+### [IBM Customer Churn Prediction](https://nbviewer.jupyter.org/github/harshulvarma/Portfolio/blob/master/CustomerChurn.ipynb)
 - Conducted Exploratory Data Analysis to understand which features contribute most to customer churn by visualizing data using seaborn
 -	Predicted if a customer is likely to leave by building a XGBoost classifier to develop focused retention programs
 -	Implemented feature engineering to increase model performance and interpretability
