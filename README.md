@@ -29,9 +29,9 @@ Classifying the health lifestyle of users based on simple input features such as
 
 ***
 
-### [IBM Customer Churn Prediction](https://nbviewer.jupyter.org/github/harshulvarma/Portfolio/blob/master/CustomerChurn.ipynb)
+### [IBM Customer Churn Key Drivers and Predictors](https://nbviewer.jupyter.org/github/harshulvarma/Portfolio/blob/master/CustomerChurn.ipynb)
 
-Predicting churn using XGBoost classifier and identifying the features that can be used to predict churn using EDA and feature importance
+Goal of the project was to identify key drivers of churn in IBM telecom data using extensive exploratory data analysis and visualisation in seaborn. Important features were also determined by making a predictive model using Random Forest and XGBoost.
 
 
 ![customer_churn](Images/customerchurn.png)
