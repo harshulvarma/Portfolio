@@ -12,6 +12,14 @@ Tools: Python (pandas, matplotlib, seaborn, plotly, scikit-learn, networkX, tens
 ***
 ## Projects:
 
+### [Health Lifestyle Prediction App](https://nbviewer.jupyter.org/github/harshulvarma/Portfolio/blob/master/health_lifestyle_prediction_app.ipynb)
+
+Classifying the health lifestyle of users based on simple input features such as resting heartrate and BMI. Focus of the project feature selection and hyperparameter tuning of the machine learning model and deployed on Heroku using streamlit. App can be accessed here: https://health-lifestyle-prediction.herokuapp.com/
+
+![health app 1](Images/health_app1.JPG) ![health app 1](Images/health_app2.JPG)
+
+***
+
 ### [IBM Customer Churn Prediction](https://nbviewer.jupyter.org/github/harshulvarma/Portfolio/blob/master/CustomerChurn.ipynb)
 
 Predicting churn using XGBoost classifier and identifying the features that can be used to predict churn using EDA and feature importance
