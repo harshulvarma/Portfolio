@@ -12,6 +12,15 @@ Tools: Python (pandas, matplotlib, seaborn, plotly, scikit-learn, networkX, tens
 ***
 ## Projects:
 
+### [Predicting loyalty in Open Source Software Repositories](https://nbviewer.jupyter.org/github/harshulvarma/Portfolio/blob/master/health_lifestyle_prediction_app.ipynb)
+
+Assessed loyalty of developers using 3TB+ GitHub Activity Data and Google BigQuery to find their committing pattern, and extract interaction information between them by building graph networks in NetworkX using Apache SPARK, SQL and Python and finally predict whether a developer is loyal with 90 AUC by building a Random Forest Classifier in PySpark and MLlib. Project was carried for MIE1512 Data Anaytics at University of Toronto
+
+![loyalty](Images/loyal.png)
+
+***
+
+
 ### [Health Lifestyle Prediction App](https://nbviewer.jupyter.org/github/harshulvarma/Portfolio/blob/master/health_lifestyle_prediction_app.ipynb)
 
 Classifying the health lifestyle of users based on simple input features such as resting heartrate and BMI. Focus of the project was feature selection and hyperparameter tuning of the machine learning model and deployment of a web app on Heroku using streamlit. App can be accessed here: https://health-lifestyle-prediction.herokuapp.com/
