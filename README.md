@@ -3,11 +3,9 @@
 ***
 ## About me:
 
-Over the years I have developed a passion to solve problems using analytical techniques while using latest technologies. I believe in constant learning and applying the gained knowledge to meaningful projects.
+Data Science professional with a heart and passion for innovation, creative problem solving and a mindset of getting things done. I am a quick learner with proven collaborative experience in a fast-paced cross functional environment. I have a keen interest in leveraging my analytical and research skills with knowledge and experience in data science for data driven decisions and applications. 
 
-This portfolio consists of projects I've worked on to demonstrate my skills in various aspects of Data Science (data cleaning, data visualisation, data analysis and machine learning)
-
-Tools I use/currently learning: Python (pandas, matplotlib, seaborn, plotly, scikit-learn, tensorflow, Keras), SQL, Tableau, d3.js, R
+Tools: Python (pandas, matplotlib, seaborn, plotly, scikit-learn, networkX, tensorflow, Keras), SQL, Tableau, Spark 
 
 [LinkedIn](https://www.linkedin.com/in/harshulvarma/)
 
