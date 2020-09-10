@@ -16,44 +16,35 @@ Tools I use/currently learning: Python (pandas, matplotlib, seaborn, plotly, sci
 
 ### [IBM Customer Churn Prediction](https://nbviewer.jupyter.org/github/harshulvarma/Portfolio/blob/master/CustomerChurn.ipynb)
 
-- Predicting churn using XGBoost classifier and identifying the features that can be used to predict churn using EDA and feature importance
+Predicting churn using XGBoost classifier and identifying the features that can be used to predict churn using EDA and feature importance
 
 
 ![customer_churn](Images/customerchurn.png)
 
 ***
 ### [Finding Similiar Neighborhoods -Toronto](https://nbviewer.jupyter.org/github/harshulvarma/Portfolio/blob/master/Finding_Similar_Neighborhoods.ipynb)
-- Scraped, cleaned and analysed Toronto postal area, borough and neighbourhood data
-- Used Foursquare API to get popular venues in each neighborhood
-- Clustered neighborhoods based on common venues using K-Means unsupervised learning
-- Found similiar neighborhoods based on euclidean distances
+Recommending neighbourhoods within Toronto to home movers using K-Means clustering based on postal code data scraped from websites and popular venues retrieved from Foursquare API
 
 ![toronto_clusters](Images/TorontoClusters.JPG)
 
 ***
 
 ### [Air quality analysis and prediction - Madrid](https://nbviewer.jupyter.org/github/harshulvarma/Portfolio/blob/master/air_quality_analysis_and_prediction_Madrid.ipynb)
--	Visualised 18 years of time series data of Madrid’s air pollution to discover trends and seasonality
--	Clustered air stations in Madrid based on pollutant levels using K-means to find key areas in Madrid with highest pollution
--	Forecasted pollution level for next 2 years by modelling and evaluating a Long Short-Term Memory-Recurrent Neural Network (LSTM-RNN) using Keras and Tensorflow
+Visualised 18 years of time series data of Madrid’s air pollution to discover trends and seasonality, clustered air stations in Madrid based on pollutant levels using K-means to find key areas in Madrid with highest pollution and finally forecasted pollution level for next 2 years by modelling and evaluating a Long Short-Term Memory-Recurrent Neural Network (LSTM-RNN) using Keras and Tensorflow
 
 
 ![air_quality](Images/PredictedNO2.png)
 
 ***
 ### [Pneumonia detection in X-Ray Images](https://nbviewer.jupyter.org/github/harshulvarma/Portfolio/blob/master/Pneumonia_X-Ray_Images.ipynb)
-- Implemented transfer learning using fine-tuned ResNet50 architecture in Keras to predict Pneumonia in X-Ray images 
-- The dataset was evaluated on various machine learning algorithms and neural network architectures but yielded best results using ResNet50 with Data Augmentation
-- The final model is evaluated based on Accuracy, F1 Score, Precision and Recall
+Implemented transfer learning using fine-tuned ResNet50 architecture with data augmentation in Keras to predict Pneumonia in X-Ray images 
 
 ![xray_1](Images/XRay.PNG)![xray_2](Images/PneumoniaConfusion.PNG)
 
 ***
 
 ### [Segmenting customers based on Credit Card usage](https://nbviewer.jupyter.org/github/harshulvarma/Portfolio/blob/master/Credit_Card_User_Segmentation.ipynb)
-- Segmented customers based on credit card usage behaviour for banks to target clusters with appropriate marketing strategies:
--	Discovered highly correlated features using Pearson correlation to feature engineer the dataset
--	Utilised K-Means in scikit-learn for cluster analysis and PCA (Principal Component Analysis) to visualise clusters
+Segmented customers based on credit card usage behaviour for banks to target clusters with appropriate marketing strategies and visualised the clusters using PCA
 
 
 ![credit_card](Images/CreditCard.png)
