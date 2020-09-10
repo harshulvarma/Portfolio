@@ -23,15 +23,16 @@ Tools I use/currently learning: Python (pandas, matplotlib, seaborn, plotly, sci
 ![customer_churn](Images/customerchurn.png)
 
 ***
-### [Segmenting customers based on Credit Card usage](https://nbviewer.jupyter.org/github/harshulvarma/Portfolio/blob/master/Credit_Card_User_Segmentation.ipynb)
-- Segmented customers based on credit card usage behaviour for banks to target clusters with appropriate marketing strategies:
--	Discovered highly correlated features using Pearson correlation to feature engineer the dataset
--	Utilised K-Means in scikit-learn for cluster analysis and PCA (Principal Component Analysis) to visualise clusters
+### [Finding Similiar Neighborhoods -Toronto](https://nbviewer.jupyter.org/github/harshulvarma/Portfolio/blob/master/Finding_Similar_Neighborhoods.ipynb)
+- Scraped, cleaned and analysed Toronto postal area, borough and neighbourhood data
+- Used Foursquare API to get popular venues in each neighborhood
+- Clustered neighborhoods based on common venues using K-Means unsupervised learning
+- Found similiar neighborhoods based on euclidean distances
 
-
-![credit_card](Images/CreditCard.png)
+![toronto_clusters](Images/TorontoClusters.JPG)
 
 ***
+
 ### [Air quality analysis and prediction - Madrid](https://nbviewer.jupyter.org/github/harshulvarma/Portfolio/blob/master/air_quality_analysis_and_prediction_Madrid.ipynb)
 -	Visualised 18 years of time series data of Madrid’s air pollution to discover trends and seasonality
 -	Clustered air stations in Madrid based on pollutant levels using K-means to find key areas in Madrid with highest pollution
@@ -49,14 +50,14 @@ Tools I use/currently learning: Python (pandas, matplotlib, seaborn, plotly, sci
 ![xray_1](Images/XRay.PNG)![xray_2](Images/PneumoniaConfusion.PNG)
 
 ***
-### [Finding Similiar Neighborhoods -Toronto](https://nbviewer.jupyter.org/github/harshulvarma/Portfolio/blob/master/Finding_Similar_Neighborhoods.ipynb)
-- Scraped, cleaned and analysed Toronto postal area, borough and neighbourhood data
-- Used Foursquare API to get popular venues in each neighborhood
-- Clustered neighborhoods based on common venues using K-Means unsupervised learning
-- Found similiar neighborhoods based on euclidean distances
 
-![toronto_clusters](Images/TorontoClusters.JPG)
+### [Segmenting customers based on Credit Card usage](https://nbviewer.jupyter.org/github/harshulvarma/Portfolio/blob/master/Credit_Card_User_Segmentation.ipynb)
+- Segmented customers based on credit card usage behaviour for banks to target clusters with appropriate marketing strategies:
+-	Discovered highly correlated features using Pearson correlation to feature engineer the dataset
+-	Utilised K-Means in scikit-learn for cluster analysis and PCA (Principal Component Analysis) to visualise clusters
+
+
+![credit_card](Images/CreditCard.png)
 
 ***
-
 
