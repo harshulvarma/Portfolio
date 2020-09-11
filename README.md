@@ -45,7 +45,7 @@ Recommending neighbourhoods within Toronto to home movers using K-Means clusteri
 ***
 
 ### [Air quality analysis and prediction - Madrid](https://nbviewer.jupyter.org/github/harshulvarma/Portfolio/blob/master/air_quality_analysis_and_prediction_Madrid.ipynb)
-Visualised 18 years of time series data of Madrid’s air pollution to discover trends and seasonality, clustered air stations in Madrid based on pollutant levels using K-means to find key areas in Madrid with highest pollution and finally forecasted pollution level for next 2 years by modelling and evaluating a Long Short-Term Memory-Recurrent Neural Network (LSTM-RNN) using Keras and Tensorflow with a 16% sMAPE adn 7 RMSE (Mean ~38)
+Visualised 18 years of time series data of Madrid’s air pollution to discover trends and seasonality, clustered air stations in Madrid based on pollutant levels using K-means to find key areas in Madrid with highest pollution and finally forecasted pollution level for next 2 years by modelling and evaluating a Long Short-Term Memory-Recurrent Neural Network (LSTM-RNN) using Keras and Tensorflow with a 14.7% sMAPE and 7 RMSE (Mean ~38)
 
 
 ![air_quality](Images/no2.png)
