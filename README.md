@@ -37,12 +37,6 @@ Goal of the project was to identify key drivers of churn in IBM telecom data usi
 ![customer_churn](Images/customerchurn.png)
 
 ***
-### [Finding Similiar Neighborhoods -Toronto](https://nbviewer.jupyter.org/github/harshulvarma/Portfolio/blob/master/Finding_Similar_Neighborhoods.ipynb)
-Recommending neighbourhoods within Toronto to home movers using K-Means clustering based on postal code data scraped from websites and popular venues retrieved from Foursquare API
-
-![toronto_clusters](Images/TorontoClusters.JPG)
-
-***
 
 ### [Air quality analysis and prediction - Madrid](https://nbviewer.jupyter.org/github/harshulvarma/Portfolio/blob/master/air_quality_analysis_and_prediction_Madrid.ipynb)
 Visualised 18 years of time series data of Madrid’s air pollution to discover trends and seasonality, clustered air stations in Madrid based on pollutant levels using K-means to find key areas in Madrid with highest pollution and finally forecasted pollution level for next 2 years by modelling and evaluating a Long Short-Term Memory-Recurrent Neural Network (LSTM-RNN) using Keras and Tensorflow with a 14.7% sMAPE and 7 RMSE (Mean ~38)
@@ -51,6 +45,15 @@ Visualised 18 years of time series data of Madrid’s air pollution to discover 
 ![air_quality](Images/no2.png)
 
 ***
+
+### [Finding Similiar Neighborhoods -Toronto](https://nbviewer.jupyter.org/github/harshulvarma/Portfolio/blob/master/Finding_Similar_Neighborhoods.ipynb)
+Recommending neighbourhoods within Toronto to home movers using K-Means clustering based on postal code data scraped from websites and popular venues retrieved from Foursquare API
+
+![toronto_clusters](Images/TorontoClusters.JPG)
+
+***
+
+
 ### [Pneumonia detection in X-Ray Images](https://nbviewer.jupyter.org/github/harshulvarma/Portfolio/blob/master/Pneumonia_X-Ray_Images.ipynb)
 Implemented transfer learning using fine-tuned ResNet50 architecture with data augmentation in Keras to predict Pneumonia in X-Ray images 
 
