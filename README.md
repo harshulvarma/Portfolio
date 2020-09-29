@@ -74,7 +74,7 @@ Analayzed the impact of each content update of controvertial Fortnite season 10 
 Visualising how CO2 emissions have changed over the years and which countries emit the most with the objective to motivate the users to be more vary of CO2 emissions in the world
 
 
-![fortnite](Images/co2.png)
+![co2](Images/co2.png)
 
 ***
 
