@@ -20,6 +20,14 @@ Assessed loyalty of developers using 3TB+ GitHub Activity Data and Google BigQue
 
 ***
 
+### [Air quality analysis and prediction - Madrid](https://nbviewer.jupyter.org/github/harshulvarma/Portfolio/blob/master/air_quality_analysis_and_prediction_Madrid.ipynb)
+Visualised 18 years of time series data of Madrid’s air pollution to discover trends and seasonality, clustered air stations in Madrid based on pollutant levels using K-means to find key areas in Madrid with highest pollution and finally forecasted pollution level for next 2 years by modelling and evaluating a Long Short-Term Memory-Recurrent Neural Network (LSTM-RNN) using Keras and Tensorflow with a 14.7% sMAPE and 7 RMSE (Mean ~38)
+
+
+![air_quality](Images/no2.png)
+
+***
+
 
 ### [Health Lifestyle Prediction App](https://nbviewer.jupyter.org/github/harshulvarma/Portfolio/blob/master/health_lifestyle_prediction_app.ipynb)
 
@@ -38,13 +46,6 @@ Goal of the project was to identify key drivers of churn in IBM telecom data usi
 
 ***
 
-### [Air quality analysis and prediction - Madrid](https://nbviewer.jupyter.org/github/harshulvarma/Portfolio/blob/master/air_quality_analysis_and_prediction_Madrid.ipynb)
-Visualised 18 years of time series data of Madrid’s air pollution to discover trends and seasonality, clustered air stations in Madrid based on pollutant levels using K-means to find key areas in Madrid with highest pollution and finally forecasted pollution level for next 2 years by modelling and evaluating a Long Short-Term Memory-Recurrent Neural Network (LSTM-RNN) using Keras and Tensorflow with a 14.7% sMAPE and 7 RMSE (Mean ~38)
-
-
-![air_quality](Images/no2.png)
-
-***
 
 ### [Finding Similiar Neighborhoods -Toronto](https://nbviewer.jupyter.org/github/harshulvarma/Portfolio/blob/master/Finding_Similar_Neighborhoods.ipynb)
 Recommending neighbourhoods within Toronto to home movers using K-Means clustering based on postal code data scraped from websites and popular venues retrieved from Foursquare API
@@ -60,6 +61,23 @@ Implemented transfer learning using fine-tuned ResNet50 architecture with data a
 ![xray_1](Images/XRay.PNG)![xray_2](Images/PneumoniaConfusion.PNG)
 
 ***
+
+### [Impact of Video Game updates on playerbase](https://public.tableau.com/profile/harshul.varma#!/vizhome/FortniteSentimentAnalysis/FNTweetsDashboard)
+Analayzed the impact of each content update of controvertial Fortnite season 10 by scraping tweets containing 'fortnite' and classified them as positive or negative sentiment to visualise how the playerbase react to the new content in Tableau. Mean sentiments of the playerbase before and after a crucial update were compared.
+
+
+![fortnite](Images/fn.png)
+
+***
+
+### [CO2 over the years](https://public.tableau.com/profile/harshul.varma#!/vizhome/CO2_15711221802340/CO2Dashboard)
+Visualising how CO2 emissions have changed over the years and which countries emit the most with the objective to motivate the users to be more vary of CO2 emissions in the world
+
+
+![fortnite](Images/co2.png)
+
+***
+
 
 ### [Segmenting customers based on Credit Card usage](https://nbviewer.jupyter.org/github/harshulvarma/Portfolio/blob/master/Credit_Card_User_Segmentation.ipynb)
 Segmented customers based on credit card usage behaviour for banks to target clusters with appropriate marketing strategies and visualised the clusters using PCA
